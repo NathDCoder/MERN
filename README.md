@@ -8,3 +8,4 @@ the time to submit all work by the 23rd of Nov. As of writing this it is the 23r
 I was left with no choice as the teaching staff could not reach me in time to solve this issue.
 The code I refactored was the Model's folder in Server folder, and I added a schema folder with a resolver and typeDef to try and get the website to work. Unfortunately I kept running into 
 the error that `model` is not a valid type within the array `savedBooks`. I will try and resolve this in my personal time. 
+The only thing I didn't have time left to create was seeds folder.
